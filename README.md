@@ -19,7 +19,14 @@ Post-Install Root Patch -->Start RootPatching-->输入root 密码-->reboot
 ## 注意
 已去掉-v，直接出 LOGO，引导设置倒计时注意及时选择，有需求自行更改。
 
-[原装网卡AX201] ( Intel网卡 / BCM94360Z4 / 白果拆机网卡 )-----白果卡，BCM94360Z4可直接使用本项目，这两种卡原先免驱，但 14去掉博通驱动，wi-fi 免驱失效，蓝牙正常，usb 网卡也无效其他网卡自行打驱动
+( Intel网卡 / BCM94360Z4 / 白果拆机网卡 )
+
+-----白果卡/BCM94360Z4可直接使用本项目，这两种卡原先免驱，但 14去掉博通驱动，wi-fi 免驱失效，蓝牙正常，usb 网卡也无效
+
+-----其他网卡如[原装网卡AX201] 参考[此教程](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/驱动内置英特尔无线网卡)添加 i 卡驱动以支持
+
+！！！更新系统前请先更新 OC 至最新版本，另不知未来黑果环境如何最好不要最求最新版本（稳定第一位）！！！
+
    <img width="720" alt="image" src="https://github.com/lovesakuratears/XiaoXinPro13_hackintosh_OC/assets/54654377/6e1dd8de-cce0-46b0-bde9-2b85904d731d">
 ## 拓展
 可以开启 [HIDPI](one-key-hidpi-dev)
