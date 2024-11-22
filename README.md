@@ -1,4 +1,12 @@
 # XiaoXinPro13_hackintosh_OC
+## (for intel AX201) Lenovo XiaoXin Pro13（S）i5-10210U/i7-10710U  [英文](README_EN.md)
+本项目基于
+
+
+
+
+
+## --------以下是[原作者](https://github.com/lovesakuratears/XiaoXinPro13_hackintosh_OC)的README---------
 ## Lenovo XiaoXin Pro13（S）i5-10210U/i7-10710U  [英文](README_EN.md)
 ## 适用于 2019 款的联想小新Pro13（S）Intel 版本（2020 款自测）
 
