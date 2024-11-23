@@ -1,4 +1,15 @@
-# XiaoXinPro13_hackintosh_OC
+# XiaoXinPro13_hackintosh_OC_AX201
+## 注意
+为了方便检索, fork之外再单开一个仓库   
+`2024-11-23更新`
+本EFI[原作者](https://github.com/lovesakuratears/XiaoXinPro13_hackintosh_OC)于11月23日更新了他的仓库
+
+enbale ：IntelBTPatcher.kext IntelBluetoothFirmware.kext AirportItlwm.kext  
+false：IOSkywalkFamily.kext IO80211FamilyLegacy.kext IO80211FamilyLegacy.kext/Contents/PlugIns/AirPortBrcmNIC.kext AMFIPass.kext
+
+我没有测试过, 需要AirportItlwm.kext-IntelAX201解决方案的请移步至原作者仓库并替换对应的config
+
+
 ## Lenovo XiaoXin Pro13（S）i5-10210U/i7-10710U (for intel AX201) 
 这份EFI基于[原作者](https://github.com/lovesakuratears/XiaoXinPro13_hackintosh_OC)的修改而来, 特别感谢[lovesakuratears](https://github.com/lovesakuratears)让这个电脑的EFI支持到了macos14+, 再次感谢lovesakuratears的热情回复和各位大佬的无私奉献!
 
